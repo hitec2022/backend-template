@@ -1,0 +1,18 @@
+server:
+  port: 8899
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+spring:
+  datasource:
+    url: jdbc:postgresql://172.30.48.1:5432/boarddb
+    username: hitec
+    password: 1234
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop

@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'https://lapine.io:80/board' -i -X POST \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"id":0,"title":"It's title","content":"It's Content","userName":"hhh"}'
+----

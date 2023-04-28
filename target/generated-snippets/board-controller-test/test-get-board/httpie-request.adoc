@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ http GET 'https://lapine.io:80/board/1'
+----

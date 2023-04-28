@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'https://lapine.io:80/board/1' -i -X GET
+----

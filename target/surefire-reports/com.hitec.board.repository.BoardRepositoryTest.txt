@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hitec.board.repository.BoardRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.922 s - in com.hitec.board.repository.BoardRepositoryTest

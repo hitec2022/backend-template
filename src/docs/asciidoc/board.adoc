@@ -1,0 +1,39 @@
+= Board document
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 2
+:sectlinks:
+
+== Documentation for Get One
+
+This is an example for creating a new customer:
+
+.request
+include::{snippets}/board-controller-test/test-get-board/http-request.adoc[]
+
+.path parameters
+include::{snippets}/board-controller-test/test-get-board/path-parameters.adoc[]
+
+.response
+include::{snippets}/board-controller-test/test-get-board/http-response.adoc[]
+
+.fields
+include::{snippets}/board-controller-test/test-get-board/response-fields.adoc[]
+
+== Documentation for Save
+
+This is an example for creating a new customer:
+
+.request
+include::{snippets}/board-controller-test/test-save-board/http-request.adoc[]
+
+.request field
+include::{snippets}/board-controller-test/test-save-board/request-fields.adoc[]
+
+.response
+include::{snippets}/board-controller-test/test-save-board/http-response.adoc[]
+
+.fields
+include::{snippets}/board-controller-test/test-save-board/response-fields.adoc[]

@@ -1,0 +1,6 @@
+[source,http,options="nowrap"]
+----
+GET /board/1 HTTP/1.1
+Host: lapine.io:80
+
+----

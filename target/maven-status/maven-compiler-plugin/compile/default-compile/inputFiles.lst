@@ -1,0 +1,9 @@
+/root/lapine/board/src/main/java/com/hitec/board/dto/BoardDTO.java
+/root/lapine/board/src/main/java/com/hitec/board/model/Board.java
+/root/lapine/board/src/main/java/com/hitec/board/controller/BoardController.java
+/root/lapine/board/src/main/java/com/hitec/board/repository/BoardRepository.java
+/root/lapine/board/src/main/java/com/hitec/board/BoardApplication.java
+/root/lapine/board/src/main/java/com/hitec/board/dtomapper/BoardDtoMapper.java
+/root/lapine/board/src/main/java/com/hitec/board/exception/BoardExceptionHandler.java
+/root/lapine/board/src/main/java/com/hitec/board/exception/BoardNotFoundException.java
+/root/lapine/board/src/main/java/com/hitec/board/service/BoardService.java

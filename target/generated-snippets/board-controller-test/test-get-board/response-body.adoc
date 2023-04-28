@@ -1,0 +1,4 @@
+[source,json,options="nowrap"]
+----
+{"id":1,"title":"It's title","content":"It's content","userName":null}
+----
